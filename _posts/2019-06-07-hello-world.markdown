@@ -4,6 +4,7 @@ title:  "Hello World!"
 date:   2019-06-07 22:10:17 -0400
 categories: blog
 tag: [how_to, jekyll]
+author: taimorekhan
 ---
 
 Hello world! This is my first blog post ever! It'll be a recap on how this site was built. 
