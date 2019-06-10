@@ -9,6 +9,8 @@ author: taimorekhan
 
 Hello world! This is my first blog post ever! It'll be a recap on how this site was built. 
 
+tl;dr: [Jekyll](http://jekyllbootstrap.com/lessons/jekyll-introduction.html), [Github Pages](https://help.github.com/en/articles/what-is-github-pages), [Google Domains](https://support.google.com/domains/answer/6051152?hl=en)
+
 ### Initialization
 As per the [Jekyll Quickstart Guide](https://jekyllrb.com/docs/), start off by running: 
 ```
@@ -97,7 +99,7 @@ Then, purchase a domain through [Google Domains](https://domains.google/#/) and 
 
 The first two point to Github's servers, and the last points specifically to the page. 
 
-And voila! Navigating to the CNAME should point to Github pages. 
+And now, navigating to the CNAME should point to Github pages. 
 
 ### Final thoughts
 Posts are all markdown files, so this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will come in handy.
