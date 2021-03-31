@@ -24,7 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "nokogiri", ">= 1.11.0"
   gem "rubyzip", ">= 1.3.0"
-  gem "kramdown", ">= 2.3.0"
+  gem "kramdown", ">= 2.3.1"
   gem "jekyll", ">= 3.7.4"
 end
 
